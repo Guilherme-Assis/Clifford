@@ -2,7 +2,7 @@
      duration: 800,
      easing: 'slide'
  });
-
+//guilherme
  (function($) {
 
      "use strict";
